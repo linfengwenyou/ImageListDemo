@@ -2,7 +2,7 @@
 
 #### 将ImageCache 文件夹放到自己项目，东西太少，不做pod
 
-
+![ImageCache](https://github.com/linfengwenyou/ImageListDemo/blob/master/pics/imageCache.png?raw=true)
 
 #### 在tableView代理计算cell高度时，调用cell方法来获取高度，此时需要记得，如果成功获取到图片则要进行刷新cell
 ```
